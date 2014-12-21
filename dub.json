@@ -1,0 +1,11 @@
+{
+    "name": "tau",
+    "description": "The mathematical constant tau.",
+    "homepage": "https://github.com/FranklinChen/tau-d",
+    "copyright": "Copyright © 2014, Franklin Chen",
+    "license": "MIT",
+    "targetType": "library",
+    "authors": ["Franklin Chen"],
+    "dependencies": {
+    }
+}
