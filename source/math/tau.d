@@ -1,4 +1,4 @@
-module tau;
+module math.tau;
 
 /// The mathematical constant <a href="http://tauday.com/">TAU</a>,
 /// where the legacy constant PI is defined as TAU/2.
